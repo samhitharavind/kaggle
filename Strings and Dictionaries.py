@@ -29,7 +29,7 @@ def word_search(doc_list, keyword):
 # 3.
 def multi_word_search(documents, keywords):
     """
-    Takes list of documents (each document is a string) and a list of keywords.  
+    Takes list of documents (each document is a string) and a list of keywords.  New content.
     Returns a dictionary where each key is a keyword, and the value is a list of indices
     (from doc_list) of the documents containing that keyword
 
